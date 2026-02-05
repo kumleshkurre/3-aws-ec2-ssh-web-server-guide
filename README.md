@@ -29,7 +29,7 @@ sudo vi index.html
 - Press Esc
 - Type :wq → Save & exit
  - 📄 Verify File Content
-```
+```css
 cat index.html
 ```
 
